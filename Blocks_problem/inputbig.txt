@@ -1,0 +1,5 @@
+5
+bab bbc
+abb bbc abbc
+abbc
+abcd abb

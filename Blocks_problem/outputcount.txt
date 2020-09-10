@@ -1,0 +1,50 @@
+State (top of stack on leftside):
+[bab bbc]
+[abb bbc abbc]
+[abbc]
+[abcd abb]
+
+State (top of stack on leftside):
+[abbc bab bbc]
+[abb bbc abbc]
+[]
+[abcd abb]
+
+State (top of stack on leftside):
+[abbc bab bbc]
+[abb bbc abbc]
+[abcd]
+[abb]
+
+State (top of stack on leftside):
+[abbc bab bbc]
+[bbc abbc]
+[abcd]
+[abb abb]
+
+State (top of stack on leftside):
+[abbc bab bbc]
+[abbc]
+[bbc abcd]
+[abb abb]
+
+State (top of stack on leftside):
+[bab bbc]
+[abbc abbc]
+[bbc abcd]
+[abb abb]
+
+State (top of stack on leftside):
+[bbc]
+[abbc abbc]
+[bbc abcd]
+[bab abb abb]
+
+State (top of stack on leftside):
+[bbc bbc]
+[abbc abbc]
+[abcd]
+[bab abb abb]
+
+Cost: 24
+Execution time: 17460.69 ms
